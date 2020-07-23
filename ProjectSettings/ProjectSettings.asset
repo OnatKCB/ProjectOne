@@ -746,10 +746,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: f0eacea3-9f9d-4d40-9b7f-44eb6a6a7eb2
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: Kreatif_Medya_Mayis_Haziran_P1_2020
+  organizationId: courier
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
